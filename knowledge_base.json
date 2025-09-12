@@ -1,0 +1,90 @@
+{
+  "startup_lines": [
+    "Hola 👋",
+    "¿Cómo estás?",
+    "¿De qué te gustaría hablar?"
+  ],
+  "intents": [
+    {
+      "patterns": [
+        "hola",
+        "buenas",
+        "hey",
+        "que onda",
+        "que tal"
+      ],
+      "responses": [
+        "¡Hola! ¿En qué puedo ayudarte?",
+        "¡Hey! ¿Qué tema te interesa hoy?"
+      ]
+    },
+    {
+      "patterns": [
+        "como estas",
+        "que tal estas"
+      ],
+      "responses": [
+        "¡A toda máquina! ¿Y tú?",
+        "Muy bien, listo para ayudarte."
+      ]
+    },
+    {
+      "patterns": [
+        "de que te gustaria hablar",
+        "temas",
+        "sugerencias"
+      ],
+      "responses": [
+        "Podemos hablar de motores, electrónica, IA, emprendimiento… tú eliges."
+      ]
+    },
+    {
+      "patterns": [
+        "mejores motores tuning de la historia",
+        "cuales son los mejores motores para tuning",
+        "top motores para modificar",
+        "mejor motor para tuneo"
+      ],
+      "responses": [
+        "Algunos clásicos del tuning: Toyota 2JZ-GTE, Nissan RB26DETT, Honda B16/B18/K20, Mitsubishi 4G63T, VW 1.8T/2.0T, GM LS (LS1/LS3), Ford Coyote 5.0, BMW S54/S55, Subaru EJ20/EJ25.",
+        "Lista rápida: 2JZ-GTE, RB26DETT, 4G63T, K20, LS3, Coyote 5.0, 1.8T VAG. ¿Quieres pros/contras de alguno?"
+      ]
+    },
+    {
+      "patterns": [
+        "por que el 2jz es tan bueno",
+        "ventajas del 2jz",
+        "2jz gte fuerte"
+      ],
+      "responses": [
+        "El 2JZ-GTE es famoso por su bloque de hierro súper robusto, bielas fuertes, culata eficiente y soporte aftermarket enorme; aguanta potencias altas con preparación adecuada."
+      ]
+    },
+    {
+      "patterns": [
+        "rb26 vs 2jz",
+        "comparacion rb26 2jz",
+        "cual es mejor rb26 o 2jz"
+      ],
+      "responses": [
+        "RB26DETT: sonido icónico, alto potencial pero requiere cariño en lubricación; 2JZ-GTE: más robusto de serie, fácil de llevar a potencias altas. La elección depende de presupuesto, disponibilidad y objetivo."
+      ]
+    },
+    {
+      "patterns": [
+        "motores de carreras"
+      ],
+      "responses": [
+        "claro, hablemos de motores de carreras, de que nacionalidad quieres que hablemos ? existen muchos motores legendarios como el 2jz gte japones!!!"
+      ]
+    },
+    {
+      "patterns": [
+        "2jz"
+      ],
+      "responses": [
+        "El 2jzgte es un motor 6 cilindros en linea turboalimentado de 3.0L de desplazamiento, y un turbo, es un legendario motor conocido por su gran robustez a la hora de modificarlo, de fabrica tiene 280 hp pero sin modificar componentes internos puede llegara a 600hp sin esfuerzo"
+      ]
+    }
+  ]
+}
