@@ -1,0 +1,183 @@
+{
+  "cars": [
+    {
+      "name": "Ferrari F40",
+      "bits": "1-1-0-1-1",
+      "img": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_148e1fc1515e4835a64723e64caa2fd7.jpg"
+    },
+    {
+      "name": "Lamborghini Diablo",
+      "bits": "1-1-1-0-1",
+      "img": "https://cdn.rmsothebys.com/d/e/4/9/a/d/de49ad70e00e2b1af8fef25f28a36acc3ee4211d.webp"
+    },
+    {
+      "name": "Porsche 959",
+      "bits": "1-1-1-1-1",
+      "img": "https://robbreport.com/wp-content/uploads/2016/07/01-87-porsche-959-64.jpg"
+    },
+    {
+      "name": "McLaren F1",
+      "bits": "1-1-0-0-1-1",
+      "img": "https://media.revistagq.com/photos/5d37118ef637b50008df82c3/16:9/w_4000,h_2250,c_limit/mclaren%20f1%201.jpg"
+    },
+    {
+      "name": "Pagani Zonda  c12",
+      "bits": "1-1-0-0-1-0",
+      "img": "https://espirituracer.com/archivos/2020/10/pagani-zonda-c12-prototipo-ii.jpg"
+    },
+    {
+      "name": "corvette c8 zr1",
+      "bits": "0-0-0-1-1",
+      "img": "https://robbreport.com/wp-content/uploads/2024/12/c8zr101.jpg?w=1024"
+    },
+    {
+      "name": "Bugatti Veyron",
+      "bits": "1-0-1-1-1",
+      "img": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_c5d1224e91804952bf39b464e2cebc8b.jpg"
+    },
+    {
+      "name": "Maserati MC12",
+      "bits": "1-0-0-0-1",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MC12._%285234528513%29.jpg/1200px-MC12._%285234528513%29.jpg"
+    },
+    {
+      "name": "Alfa Romeo 8C Competizione",
+      "bits": "1-0-0-0-0",
+      "img": "https://cdn.motor1.com/images/mgl/WxYZg/s1/alfa-romeo-8c-competizione.jpg"
+    },
+    {
+      "name": "corvette e ray",
+      "bits": "0-0-1-0-1",
+      "img": "https://espirituracer.com/archivos/2023/01/2024-chevrolet-corvette-e-ray-3lz-15.webp"
+    },
+    {
+      "name": "BMW M3 E30",
+      "bits": "1-1-0-0-0",
+      "img": "https://cdn.motor1.com/images/mgl/m6K7e/s1/bmw-e30-m3-by-redux.jpg"
+    },
+    {
+      "name": "Acura NSX II Coupe Type S Hybrid SH-AWD",
+      "bits": "0-0-1-1-1",
+      "img": "https://i.blogs.es/8dacea/acura-nsx-type-s/650_1200.jpeg"
+    },
+    {
+      "name": "Audi R8",
+      "bits": "1-0-1-0-1",
+      "img": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/58646/audi-r8_v10_decennium-2019-1600-01.jpg"
+    },
+    {
+      "name": "Jeep wilis",
+      "bits": "0-1-1-0-0",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Willys_Jeep_1943.jpg"
+    },
+    {
+      "name": "Koenigsegg Agera RS",
+      "bits": "1-0-0-1-1",
+      "img": "https://hips.hearstapps.com/hmg-prod/images/koenigsegg-agera-rsn-1-1592047681.jpg?crop=0.75xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "name": "M3 e92",
+      "bits": "1-0-0-1-0",
+      "img": "https://rosschile.com/wp-content/uploads/2025/07/103e33b8-dfa9-448f-ac42-2f93e5c9ee13.jpg"
+    },
+    {
+      "name": "Ford GT40",
+      "bits": "0-1-0-0-1-1",
+      "img": "https://i.blogs.es/712546/ford-gt40-electrico-everrati-superformance-5/1366_2000.jpeg"
+    },
+    {
+      "name": "Honda NSX",
+      "bits": "0-1-0-0-1-0",
+      "img": "https://cdn.shopify.com/s/files/1/2592/7448/files/first-generation-acura-nsx_1024x1024.jpg?v=1690557517"
+    },
+    {
+      "name": "Chevrolet Corvette C1",
+      "bits": "0-1-0-0-0-0",
+      "img": "https://cdn.buttercms.com/ou1YY0CQQoWFcOqv0UlJ"
+    },
+    {
+      "name": "Dodge Challenger Hellcat",
+      "bits": "0-0-0-1-0",
+      "img": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_52a9d5e1f0fd47febe6d50310adfda40.jpg"
+    },
+    {
+      "name": "Nissan GT-R R35",
+      "bits": "0-1-1-1-0",
+      "img": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_390881e9d2c04c61979d2807776fc71b.webp"
+    },
+    {
+      "name": "Toyota Supra MK4",
+      "bits": "0-1-0-1-0-0",
+      "img": "https://cdn.motor1.com/images/mgl/PKZQL/s3/1997-toyota-supra-sold-for-176-000-at-auction.jpg"
+    },
+    {
+      "name": "Mazda RX-7 FD",
+      "bits": "0-1-0-1-0-1",
+      "img": "https://www.carscoops.com/wp-content/uploads/2021/07/foto_no_exif-2-1-1024x555.jpg"
+    },
+    {
+      "name": "Apollo IE ",
+      "bits": "0-0-0-0-1",
+      "img": "https://www.topgear.com/sites/default/files/2025/08/image.jpg"
+    },
+    {
+      "name": "Mitsubishi Lancer Evolution IX ",
+      "bits": "0-0-1-1-0",
+      "img": "https://images.classic.com/vehicles/c53fe1cf49fd47b023bd55c78fdbb0996f013b5f.jpg?w=1200&h=676&fit=crop"
+    },
+    {
+      "name": "golf mk4 tdi",
+      "bits": "1-1-0-1-0",
+      "img": "https://www.diariomotor.com/imagenes/2020/01/volkswagen-golf-mk4-motores-p.jpg?class=XL"
+    },
+    {
+      "name": "Audi RS4 B7",
+      "bits": "1-0-1-0-0",
+      "img": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2022/02/subasta-Audi-RS4-B7-2007-344-km.jpg"
+    },
+    {
+      "name": "Lexus LFA",
+      "bits": "0-0-0-0-0",
+      "img": "https://images.squarespace-cdn.com/content/v1/5caed8960cf57d49530e8c60/e96d71ef-2165-4009-b667-2d9fafe45fc7/art-mg-lexuslfa05.jpg"
+    },
+    {
+      "name": "audi rs3 8v",
+      "bits": "1-0-1-1-0",
+      "img": "https://www.auto-data.net/images/f27/file5808107.jpg"
+    },
+    {
+      "name": "Tesla model s plaid",
+      "bits": "0-0-1-0-0",
+      "img": "https://acnews.blob.core.windows.net/imgnews/medium/NAZ_dfb1909d839c4e05baba879073c6424f.jpg"
+    },
+    {
+      "name": "Ford Sierra RS Cosworth",
+      "bits": "1-1-1-1-0",
+      "img": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2024/09/subasta-ford-sierra-rs-cosworth-1987.jpg"
+    },
+    {
+      "name": "Mercedes-Benz G500 W463",
+      "bits": "1-1-1-0-0",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg"
+    },
+    {
+      "name": "Plymouth superbird",
+      "bits": "0-1-0-0-0-1",
+      "img": "https://d1gl66oyi6i593.cloudfront.net/wp-content/uploads/2018/04/Subasta-Plymouth-Superbird-1970-1.jpg"
+    }
+  ],
+  "duplex_rules": {
+    "1-1-0-0-1": {
+      "question": "¿El coche tiene un asiento central en el habitáculo?"
+    },
+    "0-1-0-0-1": {
+      "question": "¿El coche fue diseñado originalmente para competir en Le Mans?"
+    },
+    "0-1-0-1-0": {
+      "question": "¿El coche utiliza un motor rotativo (Wankel)?"
+    },
+    "0-1-0-0-0": {
+      "question": "¿El coche tiene un aleron gigante?"
+    }
+  }
+}
